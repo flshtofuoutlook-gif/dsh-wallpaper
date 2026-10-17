@@ -1,0 +1,24 @@
+{
+  "id": "whale-wallpaper",
+  "name": "大肥鱼的壁纸",
+  "nameEn": "WHALE WALLPAPER",
+  "author": "dsh",
+  "tagline": "本机壁纸铺底 · 每次启动换一张",
+  "taglineEn": "Local wallpapers · a new one every launch",
+  "description": "把本机的动态壁纸铺到界面最底层，启动时随机挑一张；可调暗化与模糊。",
+  "descriptionEn": "Paints a local wallpaper behind the whole UI, picks a random one at launch, with dim and blur controls.",
+  "tags": [
+    "wallpaper",
+    "video",
+    "personal"
+  ],
+  "accent": "#4f7cff",
+  "bodyAttr": "data-dsh-wallpaper",
+  "dshCompatibility": "0.2.0rc2",
+  "package": "dsh-wallpaper",
+  "wiring": {
+    "id": "ui-skin-whale-wallpaper",
+    "bundleWired": false
+  },
+  "order": 90
+}
