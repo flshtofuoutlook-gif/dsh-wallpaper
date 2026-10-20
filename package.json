@@ -10,6 +10,25 @@
     "./skin.json": "./skin.json",
     "./package.json": "./package.json"
   },
+  "files": [
+    "lib",
+    "skin.json",
+    "cordis.patch.yml",
+    "README.md"
+  ],
+  "keywords": [
+    "dsh",
+    "deepseek-harness",
+    "wallpaper",
+    "plugin",
+    "skin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flshtofuoutlook-gif/dsh-wallpaper.git"
+  },
+  "author": "flshtofuoutlook-gif",
+  "license": "MIT",
   "dsh": {
     "bundle": {
       "patch": "./cordis.patch.yml"
@@ -18,6 +37,5 @@
       "inject": [],
       "platform": "web"
     }
-  },
-  "license": "MIT"
+  }
 }
