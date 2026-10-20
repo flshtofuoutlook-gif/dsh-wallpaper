@@ -1,6 +1,6 @@
-# dsh-wallpaper
+# DSH 壁纸插件（dsh-wallpaper）
 
-把你自己电脑上的壁纸（图片或视频）铺到 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 界面的最底层，每次启动随机挑一张。
+给 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 换壁纸的插件。把你自己电脑上的壁纸（图片或视频）铺到 DSH 界面的最底层，每次启动随机挑一张。
 右下角有个小圆钮，点开能挑、能勾几张做随机池。
 
 ## 装
